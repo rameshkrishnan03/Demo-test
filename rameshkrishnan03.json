@@ -1,0 +1,9 @@
+{
+   "USER_OCID": "User_id",
+   "TENANCY_OCID": "Tenancy_id",
+   "FINGERPRINT": "fingerprint",
+   "REGION": "mumbai",
+   "COMPARTMENT_OCID":"Tenancy_id",
+   "KEY_FILE": "Privatekey"
+ }
+ EOF
